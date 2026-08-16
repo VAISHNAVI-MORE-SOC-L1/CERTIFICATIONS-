@@ -12,10 +12,10 @@ Rather than collecting certificates, my focus has been on understanding security
 
 | Category                           |                        Total |
 | ---------------------------------- | ---------------------------: |
-| 🎓 Certifications                  |                       **8+** |
-| ⏱️ Learning Hours                  |               **150+ Hours** |
-| 🧪 Hands-on Labs                   |                **100+ Labs** |
-| ❓ Practical Questions & Challenges |                     **300+** |
+| 🎓 Certifications                  |                       **9+** |
+| ⏱️ Learning Hours                  |               **100+ Hours** |
+| 🧪 Hands-on Labs                   |                **130+ Labs** |
+| ❓ Practical Questions & Challenges |                     **500+** |
 | 💼 Virtual Job Simulations         |                        **2** |
 | 🌐 Learning Platforms              | **Cisco, TryHackMe, Forage** |
 
